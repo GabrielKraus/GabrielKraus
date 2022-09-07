@@ -21,17 +21,16 @@ Nowadays I’m programming in the following technologies: Python, Cobol, Java, H
    <img src="img/nodejs.svg" width="50" height="50" /> &nbsp; &nbsp;
 </p>
 <br/>
-<br>
   
   <h2 align="center"> Other Technologies</h2>
 <p align="center">
-   <img src="img/cobol.jpg" width="50" height="50" /> &nbsp; &nbsp;
-   <img src="img/python.svg" width="50" height="50" /> &nbsp; &nbsp;
-   <img src="img/java.png" width="50" height="50" /> &nbsp; &nbsp;
+   <img src="img/.NET.png" width="50" height="50" /> &nbsp; &nbsp;
+   <img src="img/c#.svg" width="50" height="50" /> &nbsp; &nbsp;
    <img src="img/html.png" width="50" height="50" /> &nbsp; &nbsp;
+   <img src="img/css.png" width="50" height="50" /> &nbsp; &nbsp;
    <img src="img/javascript.png" width="50" height="50" /> &nbsp; &nbsp;
-   <img src="img/angular.svg" width="50" height="50" /> &nbsp; &nbsp;
-   <img src="img/spring.png" width="100" height="50" /> &nbsp; &nbsp;
+   <img src="img/sql.png" width="50" height="50" /> &nbsp; &nbsp;
+   <img src="img/bootstrap.svg" width="100" height="50" /> &nbsp; &nbsp;
    <img src="img/sql.png" width="50" height="50" /> &nbsp; &nbsp;
   
 </p>
