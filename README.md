@@ -5,6 +5,7 @@
 Welcome to my profile!<br/>
 <br/>
 My name is Gabriel Kraus. Im a fullstack MERN (MongoDB, Express.js, React, Node.js) developer, but i also have knowledge with other technologies like .net core, c#, EntityFramework, SQLServer, MySql, and professional expierence with html/css/js vanilla + bootstrap.
+<br>
 I’m from Ciudad de Buenos Aires, Argentina. 
 I study Bachelor in Computer Science at Universidad Argentina De La Empresa (UADE).
 I love technology, the way it helps us, entertains us and connects us every day. 
