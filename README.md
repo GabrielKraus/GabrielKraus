@@ -27,7 +27,7 @@ Nowadays I’m programming in the following technologies: Python, Cobol, Java, H
    <img src="img/.NET.png" width="50" height="50" /> &nbsp; &nbsp;
    <img src="img/csharp.svg" width="50" height="50" /> &nbsp; &nbsp;
    <img src="img/html.png" width="50" height="50" /> &nbsp; &nbsp;
-   <img src="img/css.svg" width="50" height="50" /> &nbsp; &nbsp;
+   <img src="img/css.png" width="50" height="50" /> &nbsp; &nbsp;
    <img src="img/javascript.png" width="50" height="50" /> &nbsp; &nbsp;
    <img src="img/sql.png" width="50" height="50" /> &nbsp; &nbsp;
    <img src="img/bootstrap.svg" width="100" height="50" /> &nbsp; &nbsp;
