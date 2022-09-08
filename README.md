@@ -31,7 +31,7 @@ Nowadays I’m programming in the following technologies: Python, Cobol, Java, H
    <img src="img/javascript.png" width="50" height="50" /> &nbsp; &nbsp;
    <img src="img/sql.png" width="50" height="50" /> &nbsp; &nbsp;
    <img src="img/bootstrap.svg" width="50" height="50" /> &nbsp; &nbsp;
-   <img src="img/github.svg" width="50" height="50" /> &nbsp; &nbsp;
+   <img src="img/github.png" width="50" height="50" /> &nbsp; &nbsp;
   
 </p>
 <br/>
